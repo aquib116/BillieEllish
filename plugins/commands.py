@@ -133,7 +133,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('🔆彡[ CRUNCHYROLL ]彡🔆', url=f'https://telegram.me/{CHNL_LNK}'),
+                          InlineKeyboardButton('🔆彡[ CRUNCHYROLL ]彡🔆', url=f'https://t.me/Ongoingmoviehub'),
                          ]
                         ]
                     )
@@ -149,7 +149,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('🔆彡[ CRUNCHYROLL ]彡🔆', url=f'https://telegram.me/{CHNL_LNK}'),
+                          InlineKeyboardButton('🔆彡[ CRUNCHYROLL ]彡🔆', url=f'https://t.me/Ongoingmoviehub'),
                          ]
                         ]
                     )
@@ -373,7 +373,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🔆彡[ CRUNCHYROLL ]彡🔆', url=f'https://telegram.me/{CHNL_LNK}'),
+                      InlineKeyboardButton('🔆彡[ CRUNCHYROLL ]彡🔆', url=f'https://t.me/Ongoingmoviehub'),
                      ]
                     ]
                 )
@@ -429,7 +429,7 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('🔆彡[ CRUNCHYROLL ]彡🔆', url=f'https://telegram.me/{CHNL_LNK}'),
+              InlineKeyboardButton('🔆彡[ CRUNCHYROLL ]彡🔆', url=f'https://t.me/Ongoingmoviehub'),
              ]
             ]
         )
