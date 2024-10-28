@@ -133,7 +133,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('🔆彡[ CRUNCHYROLL ]彡🔆', url=f'https://t.me/Ongoingmoviehub'),
+                          InlineKeyboardButton('🔆彡[ CRUNCHYROLL ]彡🔆', url=f'https://t.me/chrunchyrool'),
                          ]
                         ]
                     )
@@ -149,7 +149,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('🔆彡[ CRUNCHYROLL ]彡🔆', url=f'https://t.me/Ongoingmoviehub'),
+                          InlineKeyboardButton('🔆彡[ CRUNCHYROLL ]彡🔆', url=f'https://t.me/chrunchyrool'),
                          ]
                         ]
                     )
