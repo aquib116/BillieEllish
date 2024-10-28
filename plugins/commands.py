@@ -314,7 +314,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('🔆彡[ AVAFLiX ]彡🔆', url=f'https://telegram.me/{CHNL_LNK}'),
+                      InlineKeyboardButton('🔆彡[ CHRUNCHROOL ]彡🔆', url=f'https://t.me/chrunchyrool'),
                      ]
                     ]
                 )
