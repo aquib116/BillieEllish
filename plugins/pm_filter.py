@@ -49,7 +49,7 @@ async def pm_text(bot, message):
     if user_id in ADMINS: return # ignore admins
     await message.reply_text(
          text=f"<b>🌟 Click Here For Any Movie, Series, Anime & More!!!👇 \n\n🌟 किसी भी मूवी, सीरीज, एनीमे और अधिक के लिए यहां क्लिक करें!!!👇</b>",   
-         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🎬 Click Here 🧤", url=f"https://telegram.me/theAvaflixofficial")]])
+         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🎬 Click Here 🧤", url=f"https://t.me/Ongoing_Movies_Series")]])
     )
 
 @Client.on_callback_query(filters.regex(r"^next"))
@@ -849,7 +849,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                         reply_markup=InlineKeyboardMarkup(
                             [
                              [
-                          InlineKeyboardButton('🔆彡[ CHRUNCHYROOL  ]彡🔆', url=f'https://t.me/chrunchyrool'),
+                          InlineKeyboardButton('🔆彡[ CHRUNCHYROOL  ]彡🔆', url=f'https://t.me/Ongoing_Movies_Series'),
                          ]
                             ]
                         )
