@@ -67,9 +67,9 @@ Nᴀᴍᴇ - {}"""
 
     SHORTLINK_INFO = """🔆彡[ @howuseme ]彡🔆"""
 
-    REQINFO = """🔆彡[ @theAvaflix ]彡🔆"""
+    REQINFO = """🔆彡[ @howuseme ]彡🔆"""
 
-    SINFO = """🔆彡[ @theAvaflix ]彡🔆"""
+    SINFO = """🔆彡[ @howuseme ]彡🔆"""
 
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
